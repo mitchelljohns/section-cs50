@@ -1,5 +1,5 @@
 # CS50 Section. Week 4. 9/26/16.
-*Mondays 2:30-3:00pm, CGIS K108*
+*Mondays 2:30-4:00pm, CGIS K108*
 
 > Mitch Johns  
 > mitchelljohns@college.harvard.edu  
