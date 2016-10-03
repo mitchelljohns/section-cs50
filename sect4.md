@@ -160,12 +160,12 @@ First we would add in A and B and would get:
 ```
 
 Notice that the letters can only be the leaves of the tree and all the other nodes in the tree have a frequency value equal to the sum of the frequency values of all of its children.
-|
-|
-|
-|
-|
-|
+|_
+|_
+|_
+|_
+|_
+|_
 Now we would add in D:
 
 ```
